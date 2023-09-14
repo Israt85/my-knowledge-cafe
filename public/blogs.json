@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 12345,
+        "Cover": "https://ibb.co/PzmMxpP",
+        "Title": "The Enchanted Garden",
+        "Author": "John Doe",
+        "Author Image": "https://ibb.co/T806VTc",
+        "Posted Date": "September 14, 2023",
+        "Reading Time": "15 minutes",
+        "Hashtags": ["#Fantasy", "#Nature", "#Adventure"]
+    },
+    {
+        "ID": 67890,
+        "Cover": "https://ibb.co/r5rJy2B",
+        "Title": "Secrets of the Cosmos",
+        "Author": "Jane Smith",
+        "Author Image": "https://ibb.co/2ZsXzWC",
+        "Posted Date": "September 12, 2023",
+        "Reading Time": "20 minutes",
+        "Hashtags": ["#Science", "#Space", "#Exploration"]
+    },
+    {
+        "ID": 54321,
+        "Cover": "https://ibb.co/51NQppR",
+        "Title": "Whispers in the Wind",
+        "Author": "Emily Johnson",
+        "Author Image": "https://ibb.co/vYZHDGK",
+        "Posted Date": "September 10, 2023",
+        "Reading Time": "12 minutes",
+        "Hashtags": ["#Mystery", "#Suspense", "#Thriller"]
+    },
+    {
+        "ID": 98765,
+        "Cover": "https://ibb.co/4gdndKd",
+        "Title": "Culinary Delights",
+        "Author": "David Anderson",
+        "Author Image": "https://ibb.co/GJrfcbD",
+        "Posted Date": "September 8, 2023",
+        "Reading Time": "25 minutes",
+        "Hashtags": ["#Food", "#Cooking", "#Recipes"]
+    }
+]
