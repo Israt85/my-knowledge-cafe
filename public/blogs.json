@@ -6,7 +6,7 @@
         "Author": "John Doe",
         "Author Image": "https://ibb.co/T806VTc",
         "Posted Date": "September 14, 2023",
-        "Reading Time": "15 minutes",
+        "Reading Time": 15,
         "Hashtags": ["#Fantasy", "#Nature", "#Adventure"]
     },
     {
@@ -16,7 +16,7 @@
         "Author": "Jane Smith",
         "Author Image": "https://ibb.co/2ZsXzWC",
         "Posted Date": "September 12, 2023",
-        "Reading Time": "20 minutes",
+        "Reading Time": 20,
         "Hashtags": ["#Science", "#Space", "#Exploration"]
     },
     {
@@ -26,7 +26,7 @@
         "Author": "Emily Johnson",
         "Author Image": "https://ibb.co/vYZHDGK",
         "Posted Date": "September 10, 2023",
-        "Reading Time": "12 minutes",
+        "Reading Time": 12,
         "Hashtags": ["#Mystery", "#Suspense", "#Thriller"]
     },
     {
@@ -36,7 +36,7 @@
         "Author": "David Anderson",
         "Author Image": "https://ibb.co/GJrfcbD",
         "Posted Date": "September 8, 2023",
-        "Reading Time": "25 minutes",
+        "Reading Time": 25,
         "Hashtags": ["#Food", "#Cooking", "#Recipes"]
     }
 ]
